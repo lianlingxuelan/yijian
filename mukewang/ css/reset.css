@@ -1,0 +1,18 @@
+@charset utf-8;
+body,ul,p,h4,h3,h2,h1,input{
+	margin:0;
+		}
+	ul{
+	padding:0;
+	list-style:none;
+	}
+	a{
+		text-decoration: none;
+		color: inherit;
+	}
+	li{
+		list-style: none;
+	}
+	input{
+		outline: none;
+	}
